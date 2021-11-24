@@ -1,0 +1,16 @@
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\bin\Debug\net5.0\HangmanGame.exe
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\bin\Debug\net5.0\HangmanGame.deps.json
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\bin\Debug\net5.0\HangmanGame.runtimeconfig.json
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\bin\Debug\net5.0\HangmanGame.runtimeconfig.dev.json
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\bin\Debug\net5.0\HangmanGame.dll
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\bin\Debug\net5.0\ref\HangmanGame.dll
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\bin\Debug\net5.0\HangmanGame.pdb
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\obj\Debug\net5.0\HangmanGame.csprojAssemblyReference.cache
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\obj\Debug\net5.0\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\obj\Debug\net5.0\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\obj\Debug\net5.0\HangmanGame.AssemblyInfo.cs
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\obj\Debug\net5.0\HangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\obj\Debug\net5.0\HangmanGame.dll
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\obj\Debug\net5.0\ref\HangmanGame.dll
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\obj\Debug\net5.0\HangmanGame.pdb
+C:\Users\utahs\Desktop\Навчання\С#Projects\HangmanGame\HangmanGame\obj\Debug\net5.0\HangmanGame.genruntimeconfig.cache
